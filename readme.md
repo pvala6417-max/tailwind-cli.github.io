@@ -5,3 +5,9 @@ git clone <link>
 git add .
 git commit -m index.html
 git status
+git push origin main
+
+
+git push origin main
+git branch development
+ git branch
